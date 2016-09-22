@@ -1,1 +1,1 @@
-/* Dettas ar min forsta js fil*/
+/* dettas ar min forsta js fil*/
